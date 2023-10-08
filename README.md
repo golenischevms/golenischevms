@@ -1,16 +1,15 @@
-### Hi there 👋
-
-<!--
-**golenischevms/golenischevms** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 😎🧑‍💻 golenischevms 
+Good afternoon everyone, my name is Artyom. I am electronics and software design engineer.
+### Skills
+- using stack 'python + PyQt/Flet'
+- using stack 'C++ + Qt'
+- using stack 'Java + Swing'
+- programming STM32, AVR microntrollers
+- hardware developing with KiCAD, Altium Designer
+### Work experience
+## Engineering Technologies LLC (August 2021 - September 2023)
+C++/Qt software developer
+## "South Ural State University (national research university)" (October 2023 - now)
+Researcher
+### GitHub account statistics
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
